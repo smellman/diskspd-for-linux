@@ -5,6 +5,7 @@
 #include<string>
 #include<map>
 #include<argp.h>
+#include<cstdint>
 
 #ifndef DISKSPD_OPTIONS_H
 #define DISKSPD_OPTIONS_H

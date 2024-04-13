@@ -6,6 +6,7 @@
 #include <string>
 #include <limits>
 #include <cmath>
+#include <stdexcept>
 
 #ifndef DISKSPD_HISTOGRAM_H
 #define DISKSPD_HISTOGRAM_H
